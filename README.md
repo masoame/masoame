@@ -12,8 +12,6 @@
 
 </div>
 
-![头像](https://avatars.githubusercontent.com/u/111156528?s=400&u=7c4896e9aede2c86635e246d3fe34af5f76b646c&v=4)
-
 ![Visitor Count](https://profile-counter.glitch.me/masoame/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=masoame.
